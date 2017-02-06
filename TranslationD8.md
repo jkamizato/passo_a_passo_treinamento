@@ -36,7 +36,7 @@ No módulo deve adicionar o arquivo module/config/schema/module.schema.yml
 file: module.schema.yml
 
 ```yml
-block.settings.custom_block_id
+block.settings.custom_block_id:
 	type: block_settings
 	mapping: 
 		custom_block_field:
